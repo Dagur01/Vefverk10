@@ -32,3 +32,5 @@ faBrandaraButton.addEventListener('click', () => {
 hreinsaButton.addEventListener('click', () =>{
   brandari.textContent = "";
 });
+
+module.exports = fetchJoke();
