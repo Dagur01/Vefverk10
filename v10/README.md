@@ -21,3 +21,13 @@ npm install
 ````
 npm run dev
 ````
+
+Eslint er keyrt með
+````
+npm run eslint
+````
+
+Stylelint er keyrt með
+````
+npm run stylelint
+````

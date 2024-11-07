@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint *.js **/*.js",
+    "eslint": "eslint *.js **/*.js",
     "test": "jtest",
     "stylelint": "stylelint style.css ./**/*.css"
   },
